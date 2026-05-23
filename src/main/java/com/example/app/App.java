@@ -9,7 +9,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        String studentName = "Koushik";
+        String studentName = "manju";
 
         int marks = 87;
 
